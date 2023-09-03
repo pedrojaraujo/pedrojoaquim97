@@ -10,6 +10,11 @@
 
 <div align="center">
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrojaraujo1&show_icons=true&count_private=true&hide_border=true&title_color=3F6FD7&icon_color=3F6FD7&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojaraujo1&layout=compact&hide_border=true&title_color=3F6FD7&text_color=3F6FD7&bg_color=0d1117" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrojaraujo/pedrojaraujo/output/github-contribution-grid-snake.svg">
